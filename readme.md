@@ -4,5 +4,5 @@
 
 <h6>One Page<h6>
 
-  <h2> <a href="https://html-css-js-scrollrevealjs-beginnertutorial.netlify.app/" rel="nofollow">Demo website</a> </h2>
+  <h2> <a href="https://simpledashboardcss.netlify.app/" rel="nofollow">Demo website</a> </h2>
  
